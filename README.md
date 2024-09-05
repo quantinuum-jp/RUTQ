@@ -1,1 +1,1 @@
-# RUTQ
+# RIKEN_UT_QNTM_QC_School
