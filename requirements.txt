@@ -1,0 +1,6 @@
+pytket
+pytket-qiskit
+pytket-quantinuum
+pytket-quantinuum[pecos]
+pylatexenc
+matplotlib
