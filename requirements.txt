@@ -2,5 +2,6 @@ pytket
 pytket-qiskit
 pytket-quantinuum==0.31.0
 pytket-quantinuum[pecos]
+pytket-qulacs
 pylatexenc
 matplotlib
