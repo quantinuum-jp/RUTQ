@@ -1,6 +1,6 @@
 pytket
 pytket-qiskit
-pytket-quantinuum==0.31.0
+pytket-quantinuum
 pytket-quantinuum[pecos]
 pytket-qulacs
 pylatexenc
